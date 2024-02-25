@@ -1,0 +1,5 @@
+[mysql]
+host = localhost
+database = hospital
+user = your_mysql_username
+password = your_mysql_password
